@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBooth.MicroSplat.Core.Editor", "JBooth.MicroSplat.Core.Editor.csproj", "{A4598677-B025-C68E-FEA0-521800CC2BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBooth.MicroSplat.Core", "JBooth.MicroSplat.Core.csproj", "{68A02607-16BF-8CF8-7C6F-7A1A67EAF695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7EDCC5A6-AB4F-BF14-862D-E07A2618DB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4598677-B025-C68E-FEA0-521800CC2BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4598677-B025-C68E-FEA0-521800CC2BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4598677-B025-C68E-FEA0-521800CC2BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4598677-B025-C68E-FEA0-521800CC2BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A02607-16BF-8CF8-7C6F-7A1A67EAF695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A02607-16BF-8CF8-7C6F-7A1A67EAF695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A02607-16BF-8CF8-7C6F-7A1A67EAF695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A02607-16BF-8CF8-7C6F-7A1A67EAF695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDCC5A6-AB4F-BF14-862D-E07A2618DB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDCC5A6-AB4F-BF14-862D-E07A2618DB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDCC5A6-AB4F-BF14-862D-E07A2618DB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDCC5A6-AB4F-BF14-862D-E07A2618DB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
